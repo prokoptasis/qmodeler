@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_Modeler", "Q_Modeler.csproj", "{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Debug.ActiveCfg = Debug|.NET
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Debug.Build.0 = Debug|.NET
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Release.ActiveCfg = Release|.NET
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

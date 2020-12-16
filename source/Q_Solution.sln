@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_Modeler", "Q_Modeler\Q_Modeler.csproj", "{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocToolkit", "DocToolkit\DocToolkit.csproj", "{EF871417-414A-462F-9B30-6EEC3920499F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODS_Exporter", "ODS_Exporter\ODS_Exporter.csproj", "{9B2136CD-1C6E-443F-BCFA-D783B983DC72}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{E0C8FC27-66C6-4195-B643-3CDBD18C2E81}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Debug.ActiveCfg = Debug|.NET
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Debug.Build.0 = Debug|.NET
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Release.ActiveCfg = Release|.NET
+		{6EFABA63-931B-425E-A0E1-52D8E1E42ABF}.Release.Build.0 = Release|.NET
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Debug.ActiveCfg = Debug|.NET
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Debug.Build.0 = Debug|.NET
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Release.ActiveCfg = Release|.NET
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Release.Build.0 = Release|.NET
+		{9B2136CD-1C6E-443F-BCFA-D783B983DC72}.Debug.ActiveCfg = Debug|.NET
+		{9B2136CD-1C6E-443F-BCFA-D783B983DC72}.Debug.Build.0 = Debug|.NET
+		{9B2136CD-1C6E-443F-BCFA-D783B983DC72}.Release.ActiveCfg = Release|.NET
+		{9B2136CD-1C6E-443F-BCFA-D783B983DC72}.Release.Build.0 = Release|.NET
+		{E0C8FC27-66C6-4195-B643-3CDBD18C2E81}.Debug.ActiveCfg = Debug
+		{E0C8FC27-66C6-4195-B643-3CDBD18C2E81}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
